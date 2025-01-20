@@ -1,3 +1,5 @@
+## https://community.sap.com/t5/technology-blogs-by-sap/s4-hana-graph-workspace-with-langchain/ba-p/13967906
+
 import json, re, os
 from hdbcli import dbapi
 from gen_ai_hub.proxy.langchain.init_models import init_embedding_model
