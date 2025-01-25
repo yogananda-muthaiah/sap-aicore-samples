@@ -18,3 +18,10 @@ pip install "generative-ai-hub-sdk[all]"
 
 ## Create a Deployment for a Generative AI Model
 * https://help.sap.com/docs/sap-ai-core/sap-ai-core-service-guide/create-deployment-for-generative-ai-model-in-sap-ai-core
+
+
+### SAP AI Repos
+* https://github.com/SAP-samples/generative-ai-codejam
+* https://github.com/SAP-samples/teched2024-AI180
+* https://github.com/SAP-samples/ai-core-samples
+* https://github.com/sap-tutorials/Tutorials/tree/master/tutorials
