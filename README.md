@@ -25,3 +25,4 @@ pip install "generative-ai-hub-sdk[all]"
 * https://github.com/SAP-samples/teched2024-AI180
 * https://github.com/SAP-samples/ai-core-samples
 * https://github.com/sap-tutorials/Tutorials/tree/master/tutorials
+* https://github.com/SAP-samples/btp-global-center-of-excellence-samples
