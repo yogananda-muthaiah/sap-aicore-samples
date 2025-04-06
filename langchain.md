@@ -85,3 +85,23 @@ chain = chat_prompt | chat_llm
 response = chain.invoke({'text': 'I love planking.'})
 print(response.content)
 ```
+
+Embedding
+
+```
+from gen_ai_hub.proxy.langchain.openai import OpenAIEmbeddings
+from gen_ai_hub.proxy.core.proxy_clients import get_proxy_client
+
+proxy_client = get_proxy_client('gen-ai-hub')
+
+embedding_model = OpenAIEmbeddings(proxy_model_name='text-embedding-ada-002', proxy_client=proxy_client)
+
+response = embedding_model.embed_query('Every decoding is another encoding.')
+
+#call without passing proxy_client
+
+embedding_model = OpenAIEmbeddings(proxy_model_name='text-embedding-ada-002')
+
+response = embedding_model.embed_query('Every decoding is another encoding.')
+print(response)
+```
