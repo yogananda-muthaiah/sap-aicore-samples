@@ -51,3 +51,37 @@ question = "What NFL team won the Super Bowl in the year Justin Bieber was born?
 
 print(llm_chain.invoke({'question': question}))
 ```
+
+### Chat Model
+
+```
+from langchain.prompts.chat import (
+    AIMessagePromptTemplate,
+    ChatPromptTemplate,
+    HumanMessagePromptTemplate,
+    SystemMessagePromptTemplate,
+)
+
+from gen_ai_hub.proxy.langchain.openai import ChatOpenAI
+from gen_ai_hub.proxy.core.proxy_clients import get_proxy_client
+
+proxy_client = get_proxy_client('gen-ai-hub')
+
+chat_llm = ChatOpenAI(proxy_model_name='gpt-4o-mini', proxy_client=proxy_client)
+template = 'You are a helpful assistant that translates english to pirate.'
+
+system_message_prompt = SystemMessagePromptTemplate.from_template(template)
+
+example_human = HumanMessagePromptTemplate.from_template('Hi')
+example_ai = AIMessagePromptTemplate.from_template('Ahoy!')
+human_template = '{text}'
+
+human_message_prompt = HumanMessagePromptTemplate.from_template(human_template)
+chat_prompt = ChatPromptTemplate.from_messages(
+    [system_message_prompt, example_human, example_ai, human_message_prompt])
+
+chain = chat_prompt | chat_llm
+
+response = chain.invoke({'text': 'I love planking.'})
+print(response.content)
+```
