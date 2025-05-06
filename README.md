@@ -20,6 +20,28 @@ pip install "generative-ai-hub-sdk[all]"
 * https://help.sap.com/docs/sap-ai-core/sap-ai-core-service-guide/create-deployment-for-generative-ai-model-in-sap-ai-core
 
 
+List of Artificial Intelligence Training for SAP
+
+    Exploring the SAP Business AI Portfolio
+    Introducing SAP Business AI Commercial Model
+    Introducing SAP Business AI for Cloud ERP
+    Discovering SAP Business AI Capabilities for SAP Finance
+    Introducing SAP Business AI for SAP SuccessFactors
+    Introducing SAP Business AI for Customer Experience
+    Positioning the Capabilities and Benefits of the SAP HANA Cloud Vector Engine
+    Introducing SAP Business AI for SAP Digital Supply Chain
+    Introducing SAP Business AI for Spend Management
+    Applying a Human-Centered Approach to Identify and Define Business AI Use Cases
+    Navigating Large Language Models Fundamentals and Techniques for Your Use Case
+    Boosting Your Cloud Transformation Journey with SAP Business AI and Generative AI
+    Solving Your Business Problems Using Prompts and LLMs in SAP's Generative AI Hub
+    Provisioning and Implementing Joule
+    Creating Applications and Extensions Using SAP Build Code
+    SAP Build Code - Generative AI-powered Development with Joule Copilot
+    Generative AI with SAP AI Launchpad
+    SAP HANA Cloud with Vector Engine and GenAI Hub
+
+
 ### SAP AI Repos
 * https://github.com/SAP-samples/generative-ai-codejam
 * https://github.com/SAP-samples/teched2024-AI180
