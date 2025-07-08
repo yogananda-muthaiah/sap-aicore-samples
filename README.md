@@ -5,8 +5,11 @@ SAP BTP - AI Core Models and Samples
 ### SDKs
 > Python
 * https://pypi.org/project/generative-ai-hub-sdk/
+* https://pypi.org/project/sap-ai-sdk-gen/
 ```
 pip install "generative-ai-hub-sdk[all]"
+
+pip install "sap-ai-sdk-gen[all]"
 ```
 > Javascript
 
