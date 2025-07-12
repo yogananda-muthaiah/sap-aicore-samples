@@ -1,15 +1,18 @@
 # SAP AI Core
 
 SAP BTP - AI Core Models and Samples
+
+
+### Python, Java & Javascript AI SDKs 
 * https://community.sap.com/t5/technology-blog-posts-by-sap/exploring-sap-generative-ai-sdk-python-javascript-and-java-libraries/ba-p/14150705
 
-### SDKs
-> Python
-* https://pypi.org/project/generative-ai-hub-sdk/
-* https://pypi.org/project/sap-ai-sdk-gen/
-```
-pip install "generative-ai-hub-sdk[all]"
 
+> Python
+* Deprecated Library ~~https://pypi.org/project/generative-ai-hub-sdk/~~   
+
+  
+* Latest Library https://pypi.org/project/sap-ai-sdk-gen/
+```
 pip install "sap-ai-sdk-gen[all]"
 ```
 > Javascript
