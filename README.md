@@ -48,6 +48,9 @@ List of Artificial Intelligence Training for SAP
     Generative AI with SAP AI Launchpad
     SAP HANA Cloud with Vector Engine and GenAI Hub
 
+### Enable SAP AI Core & Launchpad from BTP
+* https://developers.sap.com/tutorials/ai-core-genaihub-provisioning.html
+
 
 ### SAP AI Repos
 * https://github.com/SAP-samples/generative-ai-codejam
