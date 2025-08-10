@@ -48,6 +48,10 @@ List of Artificial Intelligence Training for SAP
     Generative AI with SAP AI Launchpad
     SAP HANA Cloud with Vector Engine and GenAI Hub
 
+### SAP Business AI (Customer Success Story)
+* [SAP Business AI Customer Success Collection](https://www.sap.com/documents/2025/05/105aa47f-067f-0010-bca6-c68f7e60039b.html)
+>  Discover how businesses worldwide harness SAP Business AI to streamline operations, enhance decision-making, and unlock new opportunities.
+
 ### Enable SAP AI Core & Launchpad from BTP
 * https://developers.sap.com/tutorials/ai-core-genaihub-provisioning.html
 
