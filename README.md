@@ -52,7 +52,7 @@ List of Artificial Intelligence Training for SAP
 
 ### Enable SAP AI Core & Launchpad from BTP
 * https://developers.sap.com/tutorials/ai-core-genaihub-provisioning.html
-
+* https://developers.sap.com/mission.ai-core.html
 
 ### SAP AI Repos
 * https://github.com/SAP-samples/generative-ai-codejam
