@@ -12,7 +12,7 @@ SAP BTP - AI Core Models and Samples
 * Deprecated Library ~~https://pypi.org/project/generative-ai-hub-sdk/~~   
 
   
-* Latest Library https://pypi.org/project/sap-ai-sdk-gen/
+* [Latest Library](https://pypi.org/project/sap-ai-sdk-gen/)
 ```
 pip install "sap-ai-sdk-gen[all]"
 ```
@@ -50,6 +50,8 @@ List of Artificial Intelligence Training for SAP
     SAP HANA Cloud with Vector Engine and GenAI Hub
 
 
+### Examples
+* https://help.sap.com/doc/generative-ai-hub-sdk/CLOUD/en-US/examples.html
 
 ### Enable SAP AI Core & Launchpad from BTP
 * https://developers.sap.com/tutorials/ai-core-genaihub-provisioning.html
