@@ -3,6 +3,7 @@
 SAP BTP - AI Core Models and Samples
 
 * https://sap.github.io/ai-sdk/
+* https://help.sap.com/docs/sap-ai-core/sap-ai-core-service-guide/libraries-and-sdks
 
 ### Python, Java & Javascript AI SDKs 
 * https://community.sap.com/t5/technology-blog-posts-by-sap/exploring-sap-generative-ai-sdk-python-javascript-and-java-libraries/ba-p/14150705
