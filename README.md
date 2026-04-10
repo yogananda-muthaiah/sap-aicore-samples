@@ -64,3 +64,6 @@ List of Artificial Intelligence Training for SAP
 * https://github.com/SAP-samples/ai-core-samples
 * https://github.com/sap-tutorials/Tutorials/tree/master/tutorials
 * https://github.com/SAP-samples/btp-global-center-of-excellence-samples
+
+### LiteLLM
+* https://sap-contributions.github.io/litellm-agentic-examples/index.html
